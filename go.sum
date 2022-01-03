@@ -36,7 +36,7 @@ gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15/go.mod h1:Co6ibVJAznAaIkqp8
 gopkg.in/errgo.v2 v2.1.0/go.mod h1:hNsd1EY+bozCKY1Ytp96fpM3vjJbqLJn88ws8XvfDNI=
 gopkg.in/inconshreveable/log15.v2 v2.0.0-20200109203555-b30bc20e4fd1 h1:iiHuQZCNgYPmFQxd3BBN/Nc5+dAwzZuq5y40s20oQw0=
 gopkg.in/inconshreveable/log15.v2 v2.0.0-20200109203555-b30bc20e4fd1/go.mod h1:aPpfJ7XW+gOuirDoZ8gHhLh3kZ1B08FtV2bbmy7Jv3s=
-gopkg.in/ugjka/go-tz.v2 v2.0.12 h1:X9PY9M2eQ6DSVtOGnXZ2PPkpDQoYoOtjWC8zP8VlgBA=
-gopkg.in/ugjka/go-tz.v2 v2.0.12/go.mod h1:1iX2y1/xUdZjNIyGW/dLRRinbWrntuHYc9oIkGWFvz4=
+gopkg.in/ugjka/go-tz.v2 v2.0.13 h1:qINe+KRaz7zGkoKBmpYWaMvkxjV8XtcESzs7LJ5Fw4A=
+gopkg.in/ugjka/go-tz.v2 v2.0.13/go.mod h1:1iX2y1/xUdZjNIyGW/dLRRinbWrntuHYc9oIkGWFvz4=
 mvdan.cc/xurls/v2 v2.2.0 h1:NSZPykBXJFCetGZykLAxaL6SIpvbVy/UFEniIfHAa8A=
 mvdan.cc/xurls/v2 v2.2.0/go.mod h1:EV1RMtya9D6G5DMYPGD8zTQzaHet6Jh8gFlRgGRJeO8=
