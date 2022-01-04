@@ -1,6 +1,5 @@
 # NewYearsBot
 
-## Preparing for 2023
 [![Go Report Card](https://goreportcard.com/badge/github.com/rhinosf1/newyearsbot/nyb)](https://goreportcard.com/report/github.com/rhinosf1/newyearsbot/nyb)
 
 New Year's Eve IRC party bot
@@ -37,15 +36,13 @@ The command prefix `!` can be changed using the -prefix flag
 
 ## Installation
 
-### 2021 versions
+### Arch Linux (Untested)
 
 Arch linux PKGBUILD in archlinux folder
 
 ### Using make
 
 You need make, go, go-tools
-
-Build with `make`
 
 Install with `make install`
 
