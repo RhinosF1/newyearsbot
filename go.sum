@@ -37,6 +37,6 @@ gopkg.in/errgo.v2 v2.1.0/go.mod h1:hNsd1EY+bozCKY1Ytp96fpM3vjJbqLJn88ws8XvfDNI=
 gopkg.in/inconshreveable/log15.v2 v2.0.0-20200109203555-b30bc20e4fd1 h1:iiHuQZCNgYPmFQxd3BBN/Nc5+dAwzZuq5y40s20oQw0=
 gopkg.in/inconshreveable/log15.v2 v2.0.0-20200109203555-b30bc20e4fd1/go.mod h1:aPpfJ7XW+gOuirDoZ8gHhLh3kZ1B08FtV2bbmy7Jv3s=
 gopkg.in/rhinosf1/go-tz.v2 v2.0.14 h1:qINe+KRaz7zGkoKBmpYWaMvkxjV8XtcESzs7LJ5Fw4A=
-gopkg.in/rhinosf1/go-tz.v2 v2.0.14/go.mod h1:1iX2y1/xUdZjNIyGW/dLRRinbWrntuHYc9oIkGWFvz4=
+gopkg.in/rhinosf1/go-tz.v2 v2.0.14/go.mod h1:HVGPe7sK1ZG1+p0I8P7dS8pDR5c5RIAHS//a2VGlVaQ=
 mvdan.cc/xurls/v2 v2.3.0 h1:59Olnbt67UKpxF1EwVBopJvkSUBmgtb468E4GVWIZ1I=
 mvdan.cc/xurls/v2 v2.3.0/go.mod h1:AjuTy7gEiUArFMjgBBDU4SMxlfUYsRokpJQgNWOt3e4=
