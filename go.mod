@@ -7,7 +7,7 @@ require (
 	github.com/rhinosf1/kittybot v0.0.41
 	gopkg.in/inconshreveable/log15.v2 v2.0.0-20200109203555-b30bc20e4fd1
 	gopkg.in/rhinosf1/go-tz.v2 v2.0.15
-	mvdan.cc/xurls/v2 v2.4.0
+	mvdan.cc/xurls/v2 v2.5.0
 )
 
 require (
